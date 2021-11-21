@@ -27,7 +27,8 @@ h2 {
 
 aside {
   margin: 20px 0;
-  color: #c4c4c4;
+  color: #18081a;
+  text-shadow: 5px 3px 3px rgba(66, 60, 66, 0.5);
 }
 
 pre,
@@ -225,9 +226,8 @@ footer {
   margin: 30px 0;
   padding: 30px;
   text-align: center;
-  color: #ffffff;
+  color: #2e082e;
   background-color: #c4fca4;
-  background-image: url("img/IMG_222444.jpg");
 }
 
 .underline {
