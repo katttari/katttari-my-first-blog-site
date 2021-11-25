@@ -4,7 +4,7 @@ body {
   line-height: 26px;
   font-family: "Arial", sans-serif;
   color: #222222;
-  background: #ffb1fb url("bg-page.PNG") no-repeat top center;
+  background: #ffb1fb url("bg-page.png") no-repeat top center;
 }
 header{
   margin-left: 15%;
