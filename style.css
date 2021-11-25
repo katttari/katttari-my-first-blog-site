@@ -77,6 +77,7 @@ a[href] {
 
 del {
   color: #ff4400;
+  text-decoration: line-through;
 }
 
 ins {
@@ -238,9 +239,6 @@ footer {
   text-decoration: line-through;
 }
 
-.overline {
-  text-decoration: overline;
-}
 
 .italic {
   font-style: italic;
