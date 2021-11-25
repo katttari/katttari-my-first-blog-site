@@ -4,7 +4,7 @@ body {
   line-height: 26px;
   font-family: "Arial", sans-serif;
   color: #222222;
-  background-image: url(https://raw.githubusercontent.com/katttari/katttari-my-first-blog-site/main/bg-page.jpeg) no-repeat top center;
+  background-image: src="https://2.downloader.disk.yandex.ru/preview/2ce105975fe5a54f3c9aeb893af215274a3dd91d0b8da03de438d3573d7dbe12/inf/MVG1NSx5Qupk8DxmuKtJ_OqCDVlYVJ3xXqzVNE1jl0SvAm7CcnM51CM0u0Y_wAYvBkloCcsHTTmtDQyJxFdgwA%3D%3D?uid=160691860&filename=bg-page.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=160691860&tknv=v2&size=1349x652" no-repeat top center;
   background: #ffb1fb;
   
 }
