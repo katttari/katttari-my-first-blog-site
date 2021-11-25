@@ -5,7 +5,7 @@ body {
   font-family: "Arial", sans-serif;
   color: #222222;
 
-  background: #ffb1fb url("IMG/bg-page.jpeg") no-repeat top center;
+  background: #ffb1fb url('..IMG/bg-page.jpeg') no-repeat top center;
 }
 header{
   margin-left: 15%;
