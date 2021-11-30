@@ -278,7 +278,7 @@ footer {
   text-align: center;
   color: #fdf5fd;
   background-color: #e4a1ff;
-  background: #350732 url("IMG_222444.jpg") center;
+  background: #350732 url("IMG_222444.jpg") no-repeat top center;
 }
 
 .underline {
